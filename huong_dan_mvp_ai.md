@@ -1,7 +1,12 @@
 # CẨM NANG XÂY DỰNG MVP ỨNG DỤNG AI NHANH
 
 *Tài liệu tổng hợp hướng dẫn lựa chọn, so sánh và kết hợp các công cụ lập trình AI thế hệ mới (OpenBolt.dev, bolt.diy, OpenCode)*
----## 1. TỔNG QUAN TƯ VẤN LỰA CHỌN BAN ĐẦU### Bối cảnh dự án*   **Mục tiêu:** Xây dựng Sản phẩm Khả dụng Tối thiểu (MVP) trong thời gian ngắn nhất.*   **Hạn chế kỹ thuật:** Không thành thạo sử dụng dòng lệnh (Terminal), Git, Node.js hoặc Docker.
+---## 1. TỔNG QUAN TƯ VẤN LỰA CHỌN BAN ĐẦU### 
+
+Bối cảnh dự án *  **Mục tiêu:** Xây dựng Sản phẩm Khả dụng Tối thiểu (MVP) trong thời gian ngắn nhất.*   
+
+**Hạn chế kỹ thuật:** Không thành thạo sử dụng dòng lệnh (Terminal), Git, Node.js hoặc Docker.
+
 ### Khuyến nghị cốt lõiBạn nên ưu tiên lựa chọn **OpenBolt.dev** để bắt đầu. Bản chất OpenBolt.dev là một dịch vụ lưu trữ đám mây (Cloud hosting) chạy trên nền tảng mã nguồn của bolt.diy nhưng đã được tối ưu giao diện web để người dùng không cần cài đặt.
 
 **Lý do lựa chọn:***   **Bỏ qua cài đặt phức tạp:** Không cần cấu hình môi trường máy tính cá nhân. Chỉ cần mở trình duyệt, đăng nhập là có thể sử dụng ngay.*   **Tốc độ ra MVP tối đa:** Giao diện trực quan giúp tập trung hoàn toàn vào việc mô tả ý tưởng bằng ngôn ngữ tự nhiên để AI tự động tạo giao diện và logic.*   **Chia sẻ dễ dàng:** Hỗ trợ xem trước (Preview) ứng dụng theo thời gian thực và dễ dàng xuất bản để gửi cho người dùng thử nghiệm hoặc nhà đầu tư.
