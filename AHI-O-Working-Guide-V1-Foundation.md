@@ -22,16 +22,23 @@
 8. Cập nhật Evolution.
 
 ## 2. Tool First
-- Bolt.new: giao diện, khung ứng dụng.
-- Replit: backend, API, chạy thử.
-- Gemini + OpenCode: đọc repo lớn, phân tích.
-- Claude: tài liệu.
+-Tool First
+
+Không cố dùng một AI hoặc một công cụ cho mọi việc.
+
+Ưu tiên chọn công cụ mạnh nhất cho từng mục tiêu.
+
 - GitHub: Source of Truth.
-- AHI-CHATGPT: điều phối, chuẩn hóa.
+- OpenCode + Gemini: đọc hiểu Repository quy mô lớn, phân tích kiến trúc.
+- Bolt.new / Bolt.diy / OpenBolt.dev / Dyad: tạo nhanh giao diện, khung ứng dụng và MVP.
+- Cursor / Windsurf: phát triển và refactor mã nguồn với BYOK.
+- Replit: chạy thử Backend/API.
+- Claude: chuẩn hóa tài liệu.
+- AHI-CHATGPT: điều phối, chuẩn hóa Artifact và hỗ trợ thiết kế.
 - AHI-Or: điều phối workflow.
 - AHI-Omi: quản trị hệ sinh thái.
 - AHI-V: kiểm tra.
-- AHI-Factory: sinh UI, Backend, API, DB, Test, CI/CD, Docker, tài liệu, mã nguồn, Agent, MCP, AHI-PS mapping, ERP Module.
+- AHI-Factory (tương lai): tự động sinh giao diện, DB, Test, CI/CD, Docker, API, tài liệu, kiểm thử, mã nguồn, Agent, MCP, AHI-PS và mã nguồn từ Specification.
 
 ## 3. Entity Index (đã biết)
 AHI
